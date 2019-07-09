@@ -2,13 +2,13 @@
 
 This Partner Agreement (the "Agreement") is made and entered between This is CALA, Inc. (hereafter referred to as "Company", "we", "us", "our" or "CALA") and you, the partner (hereafter referred to as "Contractor", "you", "your" or "yours"). In consideration of the covenants and conditions described below, Company and Contractor agree as follows:
 
-**BY CLICKING ON THE "ACCEPT" BUTTON, YOU (1) ARE CONSENTING AND EXPRESSLY AGREE TO BE BOUND BY AND ARE BECOMING A PARTY TO (A) THE TERMS OF THIS AGREEMENT, AND (B) THE TERMS OF THE TERMS OF USE LOCATED AT https://ca.la/terms (THE "TERMS OF USE"); AND (2) YOU REPRESENT AND ACKNOWLEDGE THAT YOU HAVE READ AND REVIEWED THIS AGREEMENT AND THE TERMS OF USE.**
+**BY CLICKING ON THE "ACCEPT" BUTTON, YOU (1) ARE CONSENTING AND EXPRESSLY AGREE TO BE BOUND BY AND ARE BECOMING A PARTY TO (A) THE TERMS OF THIS AGREEMENT, AND (B) THE TERMS OF THE TERMS OF USE LOCATED AT [https://ca.la/terms](https://ca.la/terms) (THE "TERMS OF USE"); AND (2) YOU REPRESENT AND ACKNOWLEDGE THAT YOU HAVE READ AND REVIEWED THIS AGREEMENT AND THE TERMS OF USE.**
 
 PLEASE NOTE THAT TO BE VETTED AS A PRODUCTION CONTRACTOR AND TO USE CALA PLATFORM (AS DEFINED HEREIN) AND THE ASSOCIATED SOFTWARE (AS DEFINED HEREIN), YOU MUST AGREE TO THE TERMS AND CONDITIONS SET FORTH BELOW. WE MAY MODIFY THIS AGREEMENT AT ANY TIME, AND SUCH MODIFICATION SHALL BE EFFECTIVE IMMEDIATELY UPON EITHER POSTING OF THE MODIFIED AGREEMENT OR NOTIFYING YOU. YOU AGREE TO REVIEW THIS AGREEMENT PERIODICALLY TO ENSURE THAT YOU ARE AWARE OF ANY MODIFICATIONS. YOUR CONTINUED ACCESS OR USE OF THE PLATFORM SHALL BE DEEMED YOUR CONCLUSIVE ACCEPTANCE OF THE MODIFIED AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT AND/OR THE TERMS OF USE, YOU DO NOT HAVE OUR AUTHORIZATION TO USE ANY OF THE SERVICES AND YOU MAY NOT ACCESS OR USE ANY PORTION OF THE SITE (AS DEFINED HEREIN) OR PLATFORM.
 
 Terms not defined herein shall have the meaning as provided in our Terms of Use and incorporated herein by this reference. In the event of any conflict between the terms of this Agreement and the Terms of Use, the terms of this Agreement shall supersede and control to the extent of any such conflict. This Agreement is effective as of July 1, 2019.
 
-## 1 PRODUCTION SERVICES
+## 1. Production Services
 
 (a) General. Company provides certain services to designers (the "Services") through a technology platform (the "Platform") which includes our proprietary software and content (the "Software") on our online website (including all content and functionality available through the https://ca.la/ domain name, the "Site") and mobile application (the "App") to connect designers ("Designers") with Contractors in connection with the production of garments and/or accessories (collectively, the "Garments") in a Designer's project (the "Design Project") for the fulfillment by Contractor of certain production services, including, but not limited to, fabric manufacturing, trim vendors, technical designers, pattern makers, sourcing services, sample makers, production, and fulfillment vendors (the "Production Services").
 
@@ -18,25 +18,25 @@ Terms not defined herein shall have the meaning as provided in our Terms of Use 
 
 (c) Shipping and Delivery. Contractor understands and agrees that for the production and/or fulfillment of Garments (the "Produced Garments"), (i) shipping and delivery costs for references, samples and bulk shall be handled by Company, if the Design Project requires the production and/or fulfillment of Garments; (ii) Company may choose to store any Produced Garments at a warehouse partner (the "Warehouse Partner") prior to delivery to Designer; (iii) all Produced Garments shall be shipped to the address and contact information provided by Designer through the Platform; (iv) Company or Warehouse Partner shall choose a nationally recognized courier service ("Courier") to deliver the Produced Garments to Designer and notify Designer of the ship date and expected delivery time of the Produced Garments; (v) if Produced Garments are damaged, defective, or otherwise incomplete (the "Damaged Garments"), upon delivery, Designer or Company will have 30 days (the "Notification Period") to notify and provide evidence to you of such Damaged Garments and you shall work with Company and Designer to remedy the damage, defect, or incompletion (including without limitation, the cost to fix or replace the Damaged Garments) and return the Damaged Garments to you, all at your cost and expense; (vi) you shall be responsible for all shipping and delivery costs for the return of Damaged Garments to you; provided, however, that if Designer or Company does not report Damaged Garments to you within the Notification Period, Designer or Company shall be responsible for and bear all shipping and delivery costs for the return of Damaged Garments to you; (vii) CALA and Designer shall not be responsible for any damage caused by Warehouse Operator or Courier to the Produced Garments and Contractor's sole recourse will be against Courier for such damage; (viii) Contractor shall be responsible for handling all complaints received by Designer and any return shipping costs in connection with any Damaged Garments; and (ix) the Fulfilled Production Payment (as defined in Section 3) will not be remitted to Contractor unless and until (A) the Produced Garments are fully delivered and received by Designer, (B) no Damaged Garments are reported by Designer or Company within 30 days, and (C) Designer remits the Fulfilled Production Payment to CALA.
 
-## 2 TERM; TERMINATION
+## 2. Term; Termination
 
 This Agreement shall commence on the date you first accept the terms herein and will continue in effect for twelve (12) months thereafter (the "Initial Term".) Following the Initial Term, the Agreement will automatically renew for successive renewal terms of twelve (12) months (each, a "Renewal Term" and together with the Initial Term, the "Term") unless either party gives the other party notice of non-renewal at least thirty (30) days prior to the end of the Initial Term or then-current Renewal Term as applicable.
 
 If either party breaches a provision of this Agreement, the other party may terminate the Agreement immediately upon written notice to the other party. Except for a material breach, the non-breaching party shall give written notice to the other party of the breach of the Agreement and the breaching party will have five (5) days thereafter to cure the non-material breach.
 
-## 3 FEES
+## 3. Fees
 
 Company shall pay you the Bid amount actually paid by Designer and received by Company for the Production Services provided to Designer, less any credit card processing fee incurred by Company for processing the Designer's payment. You understand and hereby agree that (a) Company may at times charge Designer an amount greater than the Bid (the "Rate Increase") for your Production Services; (b) in the event of such Rate Increase, you are only entitled to receive the Bid and Company is not obligated or liable to you for any other payment over the Bid; (c) payment of the Bid shall be made to you with 30% of such payment up front within 10 business days of receipt from Designer and the remaining 70% of the payment upon your full completion of the Produced Garments and within 10 business days of receipt from Designer (the "Fulfilled Production Payment"); (d) Company will not be liable to you or obligated to pay you for any costs, fees, or damages of any kind due to a Designer's non-payment for the Production Services and your sole recourse for non-payment for completed Production Services will be solely against Designer; (e) neither CALA nor Designer will be liable to you for any costs you incur in the event you commence production of Garments without Designer's consent or acceptance of an Approved Sample; (f) you will set up and have an active account with Stripe (or Veem in China) to receive payment from Company; (g) Company is not liable or responsible in any way, including, but not limited to, any damages or fees, incurred by you for your failure to set up and maintain an active account with Stripe (or Veem in China); and (h) other than disputes arising out of non-payment by Designer, under no circumstance and in no event will you contact a Designer directly by any means to discuss the Bid, or any portion thereof, or any payment details in connection with this Agreement.
 
 **By accepting the terms of this Agreement, you expressly agree to the provisions of this Section 3 "Fees".**
 
-## 4 CALA DEACTIVATION POLICY
+## 4. CALA Deactivation Policy
 
 CALA's goal is providing reliable and long lasting partnerships with both Designers and Contractors. CALA does this by connecting the top Designers with the top Contractors in terms of design, quality, reliability, accountability, and transparency in communication. This is only possible when Designers trust Contractors and vice versa. If we determine, in our sole discretion, that you have breached the terms of this Agreement, you may be barred or suspended from using the Platform, either temporarily or permanently, depending on the seriousness of the breach.
 
 After every Designer produces product through the Platform, the Designer may rate a Contractor on a five-star scale and give feedback. This system holds Contractor accountable for their production quality. Accountability helps create a respectful environment for both Designers and Contractors. Contractor can see their current rating in the Platform. Likewise, Contractors may rate Designers and give feedback through the Platform. The easiest way to keep the average rating high is to provide exceptional quality Production Services and turnaround time on every Design Project. If Designer instructions are outside of scope of the Design Project, Contractor should notify CALA immediately.
 
-## 5 COMPLIANCE WITH THE LAW
+## 5. Compliance With The Law
 
 Contractors using the Site and/or Platform agree to and shall act in compliance with all relevant state, federal and local laws at all times.
 
@@ -70,33 +70,33 @@ Contractor agrees, represents and warrants that:
 - Contractor will promptly update Designer via the Platform as to any relevant updates with respect to the Design Project, including, but not limited to, completion of any preset list of tasks in connection with a Design Project.
 - Contractor will not use the Services, Site, App or the Platform in any manner that (a) violates any law, statute, ordinance or regulation; (b) you should know is harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, fraudulent, deceptive, or misleading or otherwise objectionable; or (c) adversely affects or reflects negatively on our goodwill, name or reputation or causes duress, distress or discomfort to us or anyone else, or discourages any person, firm or enterprise from using all or any portion, feature, or function of the Services, Site, App, or Platform, or from advertising, liking or becoming a supplier to use in connection with the Services, Site, App or Platform.
 
-## 9 INDEMNITY
+## 9. Indemnity
 
 Contractor agrees to indemnify, defend, and hold Company and its successors, officers, directors, agents and employees harmless from any and all costs, expenses (including reasonable attorneys' fees), losses, damages, claims, liabilities, demands, penalties, forfeitures, suits and judgments, which Company may hereafter incur, become responsible for or pay, as a result of your performance of the Production Services described herein or arising out of, or in connection with any breach of your representations contained herein or any breach of this Agreement by Contractor.
 
-## 10 WAIVER AND RELEASE
+## 10. Waiver and Release
 
 YOU AGREE THAT NEITHER WE NOR OUR OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS OR SUPPLIERS SHALL HAVE ANY LIABILITY TO YOU UNDER ANY THEORY OF LIABILITY OR INDEMNITY IN CONNECTION WITH YOUR USE OF THE SITE, THE APP, THE SERVICES, OR THE PLATFORM. YOU SPECIFICALLY ACKNOWLEDGE THAT WE SHALL NOT BE LIABLE FOR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY AND THAT THE RISK OF HARM OR DAMAGE FROM THE FOREGOING RESTS ENTIRELY WITH YOU. YOU HEREBY RELEASE AND FOREVER WAIVE ANY AND ALL CLAIMS YOU MAY HAVE CALA, OUR OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS OR SUPPLIERS (INCLUDING BUT NOT LIMITED TO CLAIMS BASED UPON THE NEGLIGENCE OF CALA, OUR OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS OR SUPPLIERS) FOR LOSSES OR DAMAGES YOU SUSTAIN IN CONNECTION WITH YOUR USE OF THE SITE, THE APP, THE SERVICES, OR THE PLATFORM.
 
-## 11 LIABILITY LIMITATION
+## 11. Liability Limitation
 
 NOTWITHSTANDING THE FOREGOING PARAGRAPH WE WILL NOT BE LIABLE UNDER ANY THEORY OF LAW, FOR ANY INDIRECT, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION OR DATA OR COSTS OF REPLACEMENT GOODS, ARISING OUT OF THE USE OR INABILITY TO USE THE SITE, THE APP, THE SERVICES OR THE PLATFORM OR RESULTING FROM USE OF OR RELIANCE ON THE INFORMATION PRESENTED, EVEN IF WE MAY HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE SITE, THE APP AND PLATFORM ARE CONTROLLED AND OFFERED BY US FROM OUR FACILITIES IN THE UNITED STATES OF AMERICA. WE MAKE NO REPRESENTATIONS THAT THE SITE, THE APP OR PLATFORM IS APPROPRIATE OR AVAILABLE FOR USE IN OTHER LOCATIONS. THOSE WHO ACCESS OR USE THE SITE, THE APP, THE SERVICES OR THE PLATFORM FROM OTHER JURISDICTIONS DO SO AT THEIR OWN VOLITION AND ARE RESPONSIBLE FOR COMPLIANCE WITH LOCAL LAW.
 
-## 12 RELATIONSHIP OF PARTIES
+## 12. Relationship of Parties
 
 Notwithstanding any provision hereof, Contractor is an independent contractor and is not an employee, agent, or joint venturer of Company and shall not bind nor attempt to bind Company to any contract. Contractor shall be solely responsible for the manner and hours in which the Production Services are performed under this Agreement and Contractor elects to accept or reject any request to provide Production Services subject to the terms herein. Contractor shall not be eligible to participate in any of Company's benefit plans, fringe benefit programs, group insurance arrangements or similar programs. Company shall not provide workers' compensation, disability insurance, Social Security or unemployment compensation coverage or any other statutory benefit to Contractor.
 
-## 13 TOOLS AND MATERIALS
+## 13. Tools and Materials
 
 As an independent contractor, Contractor must furnish any tools, equipment and supplies necessary, if any, to provide the Production Services. Company will provide a unique and protected login to the Platform that enables Contractor to track, monitor and provide real time updates to their CALA opportunities via the Platform. Company will also provide any necessary and reasonable training for Contractor employees to use the Platform in most efficient way.
 
-## 14 OTHER ACTIVITIES
+## 14. Other Activities
 
 Contractor may choose to solicit new designer clients on his/her/its own. If Contractor would like to recommend potential designer clients to CALA, it is at CALA's discretion if the potential client can use the Platform as a Designer. In the event CALA accepts the referred client as a Designer to assess the Platform, a
 
 separate fee structure will be prepared and provided to Contractor on a case by case basis. Contractor understands and agrees that Company does not guarantee and is not obligated to accept a referred client to become a Designer with access to the Platform and/or Services.
 
-## 15 MISCELLANEOUS
+## 15. Miscellaneous
 
 (a) Governing Law. This Agreement shall be governed by the laws of the State of New York without regard to its conflict of laws provisions.
 

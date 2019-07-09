@@ -16,7 +16,7 @@ PLEASE NOTE THAT TO BE A DESIGNER WITH CALA AND TO USE CALA PLATFORM (AS DEFINED
 
 Terms not defined herein shall have the meaning as provided in our Terms of Use and incorporated herein by this reference. In the event of any conflict between the terms of this Agreement and the Terms of Use, the terms of this Agreement shall supersede and control to the extent of any such conflict. This Agreement is effective as of July 1, 2019.
 
-## 1 PRODUCTION SERVICES
+## 1. Production Services
 
 (a) General. Through our technology platform (the "Platform"), which includes our proprietary software and content (the "Software") on our online website (including all content and functionality available through the https://ca.la/ domain name, the "Site")and mobile application (the "App"), we will provide you with the CALA services (the "Services") in order to connect you with our production partners ("Partners") for the fulfillment of garments and/or accessories (collectively, the "Garments") in your design projects ("Design Project"). Our Partners can provide you with certain production services, including, but not limited to, fabric manufacturing, trim vendors, technical designers, pattern makers, sourcing services, sample makers, production, and fulfillment vendors (the "Production Services").
 
@@ -26,39 +26,39 @@ Terms not defined herein shall have the meaning as provided in our Terms of Use 
 
 (c) Shipping and Delivery. Contractor understands and agrees that for the production and/or fulfillment of Garments (the "Produced Garments"), (i) shipping and delivery costs for references, samples and bulk shall be handled by Company; (ii) you will provide accurate, truthful and up to date shipping information through the Platform for the delivery of Produced Garments; (iii) Company may choose to store any Produced Garments at a warehouse partner (the "Warehouse Partner"); (iv) the method of shipping will be provided through a nationally recognized courier service ("Courier") chosen by Company or Warehouse Partner; (v) you agree to be present on the expected delivery date or designate an authorized adult to accept delivery of the Produced Garments; (vi) you will inspect all Produced Garments immediately upon delivery and, if Produced Garments are damaged, defective, or otherwise incomplete (the "Damaged Garments"), you will have 30 days (the "Notification Period") in which to notify and provide evidence to the Partner of such Damaged Garments and Partner shall work with you to remedy the damage, defect, or incompletion (including without limitation, the cost to fix or replace the Damaged Garments) and return the Damaged Garments to Partner, all at Partner's cost and expense; (vii) you will bear and be responsible for all shipping and delivery costs for the return of Damaged Garments to Partner if such damage is not reported to Partner within the Notification Period; (viii) CALA shall not be responsible for any damage caused by Warehouse Partner or Courier to the Produced Garments and your sole recourse will be against Warehouse Partner or Courier, as applicable, for such damage; (ix) you will direct all complaints in connection with any Damaged Garments to Partner and not CALA; (x) you will fully pay for all Produced Garments that meet the requirements and criteria of the Approved Sample; and (xi) upon acceptance of the Produced Garments, you will remit payment of the Fulfilled Production Payment (as defined in Section 3) to CALA within 5 business days.
 
-## 2 TERM; TERMINATION
+## 2. Term; Termination
 
 This Agreement shall commence on the date you first accept the terms herein and will continue in effect for twelve (12) months thereafter (the "Initial Term".) Following the Initial Term, the Agreement will automatically renew for successive renewal terms of twelve (12) months (each, a "Renewal Term" and together with the Initial Term, the "Term") unless either party gives the other party notice of non-renewal at least thirty (30) days prior to the end of the Initial Term or then-current Renewal Term as applicable.
 
 If either party breaches a provision of this Agreement, the other party may terminate the Agreement immediately upon written notice to the other party. Except for a material breach, the non-breaching party shall give written notice to the other party of the breach of the Agreement and the breaching party will have five (5) days thereafter to cure the non-material breach.
 
-## 3 FEES
+## 3. Fees
 
 You will pay Company the Bid, for Production Services provided to you by a Partner. You understand and hereby agree that (a) payment for 30% of the Bid shall be submitted by you up front prior to a Partner's commencement of Production Services and payment for the remaining 70% shall be required by you within 5 business days of completion of the project (the "Fulfilled Production Payment"); (b) any costs due to your changes shall be paid in full prior to Partner's production of a Changed Garment; (c) you shall be solely responsible for and liable to Partner for any non-payment of costs and fees in connection with the Partner's Production Services of your Design Project; (d) you shall be solely responsible for payment of any damages of any kind that a Partner may incur due to your non-payment of the Bid; (e) neither Company nor Partner is required to release or deliver Final Garments to you if you fail to make full payment of the Bid; and (f) if you opt-in to financing, you will promptly provide Company your bank statements for the past 3 months or full access to your e-commerce platform so we can review your sales history. Additionally, if you choose to receive a direct line of credit with one of Company's financing partner (the "Finance Partner"), you understand, agree and represent that (i) you will enter into a separate agreement with such Finance Partner (the "Finance Agreement"); (ii) you will provide a fully executed copy of the Finance Agreement to Company prior to a Partner's commencement of production of any portion of your Design Project; (iii) Company will not be a party to, nor responsible for any obligations of Contractor nor Finance Partner in any Finance Agreement; (iv) you will fully pay any amounts due to Company prior to a Partner's commencement of your Design Project; (v) you will pay all costs and fees incurred by you under such Finance Agreement directly to the Finance Partner pursuant to the terms of the Finance Agreement; and (vi) you will be, and in no event will Company be, responsible to repay any and all amounts to a Finance Partner advanced by you to Company.
 
 **By accepting the terms of this Agreement, you expressly agree to the provisions of this Section 3 "Fees".**
 
-## 4 CALA DEACTIVATION POLICY
+## 4. CALA Deactivation Policy
 
 CALA's goal is providing reliable and long lasting partnerships with both Partners and Contractors. CALA does this by connecting the top Designers with the top Partners in terms of design, quality, reliability, accountability, and transparency in communication. This is only possible when Designers trust Partners and vice versa. If we determine, in our sole discretion, that you have breached the terms of this Agreement, you may be barred or suspended from using the Platform, either temporarily or permanently, depending on the seriousness of the breach.
 
 Following completion of a Design Project, you may rate a Partner on a five-star scale and give feedback. This system holds Partners accountable for their production quality. Accountability helps create a respectful environment for both you and Partners. Partners can see their current rating in the Platform. Likewise, Partners may rate you as a Designer and give feedback through the Platform. The easiest way to keep the average rating high is to provide exceptional quality product and turnaround time on every Design Project.
 
-## 5 COMPLIANCE WITH THE LAW
+## 5. Compliance With The Law
 
 Contractors using the Site and/or Platform agree to and shall act in compliance with all relevant state, federal and local laws at all times.
 
-## 6 DISPUTE RESOLUTION.
+## 6. Dispute Resolution.
 
 The parties agree that any controversy or dispute between the parties concerning this Agreement, including deactivation of Contractor's access to the Platform or the construction or application of any of the terms, covenants, or conditions of the Agreement, will first be subject to reasonable good faith efforts by the parties to resolve such dispute, and if such good faith efforts are not successful, shall be submitted to binding arbitration in New York County, New York, on the request of any party, and the arbitration shall comply with and be governed by the provisions of the New York Civil Practice Law & Rules, Article 75. Any cause of action or claim you may have with respect to this Agreement must be commenced within one (1) year after the claim or cause of action arises. Arbitration shall be conducted by three arbitrators familiar with the commercial practices of Company and Contractor's industry. Each party shall be entitled to select one arbitrator, which two selected arbitrators shall in turn select a third arbitrator. Any award or decision obtained from any such arbitration proceeding shall be final and binding on the parties, and judgment upon any award thus obtained may be entered in any court having jurisdiction thereof. All parties to the arbitration shall as an initial matter share the costs of such proceeding, but the prevailing party may be awarded fees and costs, including reasonable attorney's fees. No action at law or in equity based upon any claim arising out of or related to this Agreement shall be instituted in any court by either party except (a) an action to compel arbitration pursuant to this Section, or (b) an action to enforce an award obtained in an arbitration proceeding in accordance with this Section.
 
-## 7 PROPERTY RIGHTS OF THE PARTIES
+## 7. Property Rights of the Parties
 
 Contractor recognizes and acknowledges that the Company possesses certain Confidential Information (as defined herein) that constitutes a valuable, special and unique asset of Company. As used herein, the term "Confidential Information" includes all information and materials belonging to, used by, or in the possession of Company or obtained by Contractor through the Platform, including, but not limited to information relating to Company's products, processes, services, technology, inventions, patents, ideas, contracts, financial information, developments, business strategies, pricing, customers, current and prospective Designers or Partners, Partner rates, the Bid, marketing plans and trade secrets.
 
 Contractor agrees that all Confidential Information is and shall continue to be the exclusive property of the Company, whether or not prepared in whole or in part by the Contractor and whether or not disclosed to or entrusted to the Contractor's custody. Except pursuant to a court order, or as otherwise specifically required by law as determined by your legal counsel, or with the written consent of the Company, you covenant and agree that you will not, at any time following the acceptance of this Agreement and following termination of this Agreement, disclose to any third party (including without limitation the Partner) or use in any manner any Confidential Information of the Company.
 
-## 8 CONTRACTOR REPRESENTATIONS AND WARRANTIES
+## 8. Contractor Representations and Warranties
 
 Contractor agrees, represents and warrants that:
 
@@ -73,29 +73,29 @@ Contractor agrees, represents and warrants that:
 - Contractor will pay all Bids, in a timely manner pursuant to Section 3.
 - Contractor will not use the Services, Site, Platform or App in any manner that (a) violates any law, statute, ordinance or regulation; (b) you should know is harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, fraudulent, deceptive, or misleading or otherwise objectionable; or (c) adversely affects or reflects negatively on our goodwill, name or reputation or causes duress, distress or discomfort to us or anyone else, or discourages any person, firm or enterprise from using all or any portion, feature, or function of the Services, Site, App or Platform, or from advertising, liking or becoming a supplier to use in connection with the Services, Site, App or Platform.
 
-## 9 INDEMNITY
+## 9. Indemnity
 
 Contractor agrees to indemnify, defend, and hold Company and its successors, officers, directors, agents and employees harmless from any and all costs, expenses (including reasonable attorneys' fees), losses, damages, claims, liabilities, demands, penalties, forfeitures, suits and judgments, which Company may hereafter incur, become responsible for or pay, as a result of any breach of your representations contained herein or any breach of this Agreement by Contractor.
 
-## 10 WAIVER AND RELEASE
+## 10. Waiver and Release
 
 YOU AGREE THAT NEITHER WE NOR OUR OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS OR SUPPLIERS SHALL HAVE ANY LIABILITY TO YOU UNDER ANY THEORY OF LIABILITY OR INDEMNITY IN CONNECTION WITH YOUR USE OF THE SITE, THE APP, THE SERVICES, OR THE PLATFORM. YOU SPECIFICALLY ACKNOWLEDGE THAT WE SHALL NOT BE LIABLE FOR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY AND THAT THE RISK OF HARM OR DAMAGE FROM THE FOREGOING RESTS ENTIRELY WITH YOU. YOU HEREBY RELEASE AND FOREVER WAIVE ANY AND ALL CLAIMS YOU MAY HAVE CALA, OUR OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS OR SUPPLIERS (INCLUDING BUT NOT LIMITED TO CLAIMS BASED UPON THE NEGLIGENCE OF CALA, OUR OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS OR SUPPLIERS) FOR LOSSES OR DAMAGES YOU SUSTAIN IN CONNECTION WITH YOUR USE OF THE SITE, THE APP, THE SERVICES, OR THE PLATFORM.
 
-## 11 LIABILITY LIMITATION
+## 11. Liability Limitation
 
 NOTWITHSTANDING THE FOREGOING PARAGRAPH WE WILL NOT BE LIABLE UNDER ANY THEORY OF LAW, FOR ANY INDIRECT, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION OR DATA OR COSTS OF REPLACEMENT GOODS, ARISING OUT OF THE USE OR INABILITY TO USE THE SITE, THE APP, THE SERVICES OR THE PLATFORM OR RESULTING FROM USE OF OR RELIANCE ON THE INFORMATION PRESENTED, EVEN IF WE MAY HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE SITE, THE APP, THE SERVICES AND THE PLATFORM ARE CONTROLLED AND OFFERED BY US FROM OUR FACILITIES IN THE UNITED STATES OF AMERICA. WE MAKE NO REPRESENTATIONS THAT THE SITE, THE APP, THE SERVICES OR THE PLATFORM IS APPROPRIATE OR AVAILABLE FOR USE IN OTHER LOCATIONS. THOSE WHO ACCESS OR USE THE SITE, THE APP, THE SERVICES OR THE PLATFORM FROM OTHER JURISDICTIONS DO SO AT THEIR OWN VOLITION AND ARE RESPONSIBLE FOR COMPLIANCE WITH LOCAL LAW.
 
-## 12 NON-SOLICITATION. NON-CIRCUMVENT.
+## 12. Non-Solicitation. Non-Circumvent.
 
 (a) Non-Solicitation. To the fullest extent permitted under applicable law, from the date of this Agreement until 18 months after the termination of this Agreement for any reason, you agree that, neither you nor any of your agents, employees, contractors or affiliates will, directly or indirectly, solicit or hire any of our Partners whom you meet or who become known to you during, or as a result of, your access to the Platform and/or Services. The foregoing provision will not prevent you from conducting generalized solicitations for such production partners through the use of media advertisements, professional search firms or otherwise not specifically targeted to any of our Partners.
 
 (b) Non-Circumvent. Because of this Agreement, Contractor may be introduced to or learn of Partners, persons, contacts, entities, customers, distributors, clients, employees, consultants, or agents of the Company (collectively referred to as the "Designated Parties"). For the Term of this Agreement and for 18 months following the expiration or earlier termination of this Agreement, Contractor agrees not to circumvent, attempt to circumvent, or permit any other party or persons on your behalf to circumvent Company's relationships and/or agreements with the Designated Parties in any way, manner or form, including, but not limited to, contacting; calling on; soliciting; consummating transactions, contracts or engagements; or taking away, either directly or indirectly, any Designated Party without the prior written permission of the Company. In the event of any breach of this Section 12, Company, in addition to any other remedies at law or in equity that Company may have, will be entitled, without the requirement of posting a bond or other security, to equitable relief, including injunctive relief and specific performance.
 
-## 13 RELATIONSHIP OF PARTIES
+## 13. Relationship of Parties
 
 Notwithstanding any provision hereof, Contractor is an independent contractor and is not an employee, agent, or joint venturer of Company and shall not bind nor attempt to bind Company to any contract. Contractor shall not be eligible to participate in any of Company's benefit plans, fringe benefit programs, group insurance arrangements or similar programs. Company shall not provide workers' compensation, disability insurance, Social Security or unemployment compensation coverage or any other statutory benefit to Contractor.
 
-## 14 MISCELLANEOUS
+## 14. Miscellaneous
 
 (a) Governing Law. This Agreement shall be governed by the laws of the State of New York without regard to its conflict of laws provisions.
 
