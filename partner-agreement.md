@@ -40,17 +40,17 @@ After every Designer produces product through the Platform, the Designer may rat
 
 Contractors using the Site and/or Platform agree to and shall act in compliance with all relevant state, federal and local laws at all times.
 
-## 6 DISPUTE RESOLUTION.
+## 6. Dispute Resolution
 
 The parties agree that any controversy or dispute between the parties concerning this Agreement, including deactivation of Contractor's access to the Platform or the construction or application of any of the terms, covenants, or conditions of the Agreement, will first be subject to reasonable good faith efforts by the parties to resolve such dispute, and if such good faith efforts are not successful, shall be submitted to binding arbitration in New York County, New York, on the request of any party, and the arbitration shall comply with and be governed by the provisions of the New York Civil Practice Law & Rules, Article 75. Any cause of action or claim you may have with respect to this Agreement must be commenced within one (1) year after the claim or cause of action arises. Arbitration shall be conducted by three arbitrators familiar with the commercial practices of Company and Contractor's industry. Each party shall be entitled to select one arbitrator, which two selected arbitrators shall in turn select a third arbitrator. Any award or decision obtained from any such arbitration proceeding shall be final and binding on the parties, and judgment upon any award thus obtained may be entered in any court having jurisdiction thereof. All parties to the arbitration shall as an initial matter share the costs of such proceeding, but the prevailing party may be awarded fees and costs, including reasonable attorney's fees. No action at law or in equity based upon any claim arising out of or related to this Agreement shall be instituted in any court by either party except (a) an action to compel arbitration pursuant to this Section, or (b) an action to enforce an award obtained in an arbitration proceeding in accordance with this Section.
 
-## 7 PROPERTY RIGHTS OF THE PARTIES
+## 7. Property Rights of the Parties
 
 Contractor recognizes and acknowledges that the Company possesses certain Confidential Information (as defined herein) that constitutes a valuable, special and unique asset of Company. As used herein, the term "Confidential Information" includes all information and materials belonging to, used by, or in the possession of Company or obtained by Contractor through the Platform, including, but not limited to information relating to Company's products, processes, services, technology, inventions, patents, ideas, contracts, financial information, developments, business strategies, pricing, customers, current and prospective Designers, Design Projects, Design Levels determined by Company, the Bid, marketing plans and trade secrets.
 
 Contractor agrees that all Confidential Information is and shall continue to be the exclusive property of the Company, whether or not prepared in whole or in part by the Contractor and whether or not disclosed to or entrusted to the Contractor's custody. Except pursuant to a court order, or as otherwise specifically required by law as determined by your legal counsel, or with the written consent of the Company, you covenant and agree that you will not, at any time following the acceptance of this Agreement and following termination of this Agreement, disclose to any third party (including without limitation the Designer) or use in any manner any Confidential Information of the Company.
 
-## 8 CONTRACTOR REPRESENTATIONS AND WARRANTIES
+## 8. Contractor Representations and Warranties
 
 Contractor agrees, represents and warrants that:
 
