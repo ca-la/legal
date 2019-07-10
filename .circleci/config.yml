@@ -1,0 +1,29 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:10.15.0
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+      - run: |
+        sudo apt-get update
+        sudo apt-get install texlive-latex-base pandoc texlive-fonts-recommended
+        mkdir -p pdf
+
+        for file in privacy terms designer-agreement partner-agreement designer-agreement-and-terms partner-agreement-and-terms; do
+          pandoc $file.md -o pdf/$file.pdf
+        done
+      - deploy:
+          name: Deploy to Heroku
+          command: |
+            git config --global user.email "devops@ca.la"
+            git config --global user.name "CALA Machine User"
+
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              git add .
+              git commit -m '[ci skip] Add PDF copies'
+              git push origin master
+            fi
