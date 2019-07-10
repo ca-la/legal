@@ -11,7 +11,7 @@ jobs:
       - run: |
           sudo apt-get update
           sudo apt-get install texlive-latex-base pandoc texlive-fonts-recommended
-					rmdir pdf || true
+          rmdir pdf || true
           mkdir -p pdf
 
           for file in privacy terms designer-agreement partner-agreement; do
