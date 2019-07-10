@@ -18,8 +18,8 @@ jobs:
             pandoc $file.md -o pdf/$file.pdf
           done
 
-          cat partner-agreement.md && echo '\n---\n' && cat terms.md | pandoc -o pdf/partner-agreement-and-terms.pdf
-          cat designer-agreement.md && echo '\n---\n' && cat terms.md | pandoc -o pdf/designer-agreement-and-terms.pdf
+          (cat partner-agreement.md && echo '\n---\n' && cat terms.md) | pandoc -o pdf/partner-agreement-and-terms.pdf
+          (cat designer-agreement.md && echo '\n---\n' && cat terms.md) | pandoc -o pdf/designer-agreement-and-terms.pdf
       - deploy:
           name: Add built copies
           command: |
