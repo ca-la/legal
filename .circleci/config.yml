@@ -9,13 +9,13 @@ jobs:
     steps:
       - checkout
       - run: |
-        sudo apt-get update
-        sudo apt-get install texlive-latex-base pandoc texlive-fonts-recommended
-        mkdir -p pdf
+          sudo apt-get update
+          sudo apt-get install texlive-latex-base pandoc texlive-fonts-recommended
+          mkdir -p pdf
 
-        for file in privacy terms designer-agreement partner-agreement designer-agreement-and-terms partner-agreement-and-terms; do
-          pandoc $file.md -o pdf/$file.pdf
-        done
+          for file in privacy terms designer-agreement partner-agreement designer-agreement-and-terms partner-agreement-and-terms; do
+            pandoc $file.md -o pdf/$file.pdf
+          done
       - deploy:
           name: Deploy to Heroku
           command: |
