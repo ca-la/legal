@@ -92,9 +92,7 @@ As an independent contractor, Contractor must furnish any tools, equipment and s
 
 ## 14. Other Activities
 
-Contractor may choose to solicit new designer clients on his/her/its own. If Contractor would like to recommend potential designer clients to CALA, it is at CALA's discretion if the potential client can use the Platform as a Designer. In the event CALA accepts the referred client as a Designer to assess the Platform, a
-
-separate fee structure will be prepared and provided to Contractor on a case by case basis. Contractor understands and agrees that Company does not guarantee and is not obligated to accept a referred client to become a Designer with access to the Platform and/or Services.
+Contractor may choose to solicit new designer clients on his/her/its own. If Contractor would like to recommend potential designer clients to CALA, it is at CALA's discretion if the potential client can use the Platform as a Designer. In the event CALA accepts the referred client as a Designer to assess the Platform, a separate fee structure will be prepared and provided to Contractor on a case by case basis. Contractor understands and agrees that Company does not guarantee and is not obligated to accept a referred client to become a Designer with access to the Platform and/or Services.
 
 ## 15. Miscellaneous
 
