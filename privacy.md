@@ -22,7 +22,7 @@ As you navigate through and interact with our Website, we use automatic data col
 The technologies we use for this automatic data collection include:
 
 - __Cookies.__ A cookie is a small file placed on your computer or mobile device. You may control the use of cookies by activating the appropriate setting on your browser or mobile device. If you disable or refuse cookies, you may be unable to access or use certain parts of our Website. Our Website does not respond to “Do Not Track” signals. Some of these cookies come from third party partners such as Google and Facebook to provide you with customized content and advertising.  You can read more about how Google Analytics uses cookies here: https://policies.google.com/privacy
-- __Other Tracking Technologies.__ Pages of our Website and our e-mails may contain web beacons, clear gifs, pixel tags or similar tracking technologies. These s permit us to, for example, count users who have visited those pages or opened an email, and are used for other related Website statistics (for example, recording the popularity of certain Website content and verifying system and server integrity).
+- __Other Tracking Technologies.__ Pages of our Website and our e-mails may contain web beacons, clear gifs, pixel tags or similar tracking technologies. These permit us to, for example, count users who have visited those pages or opened an email, and are used for other related Website statistics (for example, recording the popularity of certain Website content and verifying system and server integrity).
 
 ## How We Use Your Information
 
