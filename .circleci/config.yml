@@ -26,8 +26,8 @@ jobs:
             git config --global user.email "devops@ca.la"
             git config --global user.name "CALA Machine User"
 
-            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+            if [ "${CIRCLE_BRANCH}" == "main" ]; then
               git add pdf
               git commit -m '[ci skip] Add PDF copies'
-              git push origin master
+              git push origin main
             fi
